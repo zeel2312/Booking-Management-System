@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "bms backend"
+version = "0.1.0"
+description = ""
+authors = ["team 6"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "0.103.1"
+cryptography = "^41.0.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "7.1.2"
+SQlAlchemy = "1.4.32"
+pydantic = "2.4.0"
+flake8 = "4.0.1"
+PyMySQL = "1.0.2"
+uvicorn = "0.23.2" 
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
