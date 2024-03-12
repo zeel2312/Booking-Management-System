@@ -1,6 +1,6 @@
 # CineMatch (Booking Management System)
 
-CineMatch is a state-of-the-art movie ticket booking application designed to revolutionize the way moviegoers and cinema staff interact with the booking process. This platform not only facilitates effortless movie selection, seat booking, and payment processes for users but also provides cinema staff and administrators with powerful tools for ticket management, movie scheduling, and user role administration. CineMatch stands out by offering a seamless, intuitive user experience alongside robust management features for cinema operations.
+CineMatch is a state-of-the-art movie ticket booking application designed to revolutionize the way moviegoers and cinema staff interact with the booking process.
 
 ## Description
 
