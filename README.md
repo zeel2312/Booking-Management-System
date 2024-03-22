@@ -25,7 +25,7 @@ CineMatch streamlines the movie ticket booking journey, providing a user-centric
 
 ## Demo and User's Manual
 
-- **Demo Video**: Watch a detailed demo of CineMatch in action [here](#).
+- **Demo Video**: Watch a detailed demo of CineMatch in action [here](https://drive.google.com/file/d/1-Aeyd75dg0iSfoE7bCwj2EJi3db4N1_R/view?usp=sharing).
 - **User's Manual**: For a comprehensive guide on using CineMatch, access the user's manual [here](https://drive.google.com/file/d/1otMU8aTyym38jcvk-12iPkG6LWXou9s9/view?usp=sharing).
   
 ## Support
