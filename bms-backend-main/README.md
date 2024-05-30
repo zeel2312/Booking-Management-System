@@ -15,7 +15,7 @@
 3) Install mysql workbench
     https://dev.mysql.com/downloads/workbench/
 
-4) Import the database (.sql file) which i will be sending in the slack
+4) Import the database (.sql file)
     
     for reference (https://www.geeksforgeeks.org/how-to-import-and-export-data-to-database-in-mysql-workbench/)
 
